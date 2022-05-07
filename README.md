@@ -1,0 +1,2 @@
+# DiscordRichPresence
+Plugin for FIDE
